@@ -1,0 +1,56 @@
+,TaskName,Section_name,ProjectName,Done_section_dt,Task_due_on,Created_at,Modified_at,Completion_method,completed_at,assigne,assigne_status,task_parent,Notes,Comment,Task_id,Ticket Elapse time
+0,abc,User Request,Duplicate of Production Support,0,2019-07-01,2019-07-31,2019-08-12,Force completion,2019-08-01,AnkitaSome,inbox,,,,1133638596471258,NA
+1,bug 101,In Progress,Duplicate of Production Support,0,2019-07-15,2019-08-06,2019-08-12,Force completion,2019-08-12,,upcoming,,nirml,,1134454351843759,NA
+2,xyz,Resolved,Duplicate of Production Support,0,2019-08-01,2019-07-25,2019-08-12,Force completion,2019-08-12,AnkitaSome,inbox,,"slack: It won't' let me recall the approval for quote 5400182. I need to resubmit for approval to tech services and it won't let me>
+
+## Resolved by calling the user
+
+User didn't reply.
+
+","
+nirmal.bhujel : 2019-07-29 10:07
+test comment",1132860158190652,NA
+3,John Batista [Today at 8:36 P],Resolved,Duplicate of Production Support,0,,2019-07-25,2019-08-20,Force completion,2019-08-20,soumya.debnath,inbox,,"slack:Can I please have Shipping Contact: Lindsay Calamusa added to quote 5401429?>
+##
+
+",,1132860328346497,NA
+4,Lauren.Couch [Today at 6:58 PM],Resolved,Duplicate of Production Support,0,,2019-07-25,2019-07-29,,,soumya.debnath,inbox,,"slack:Please move quote 5330807 back to open, it is stuck in pending approval with no quote approvals.>
+
+## I'm look into the issue. ",,1132860328645591,NA
+5,kierstyn.hughes [8:22 PM],Resolved,Duplicate of Production Support,0,,2019-07-25,2019-07-29,,,soumya.debnath,inbox,,"slack:Please add a shipping contact for quote 5400038>
+##",,1132860328861768,NA
+6,michael.ward [Today at 6:41 PM],Resolved,Duplicate of Production Support,0,,2019-07-25,2019-07-29,,,soumya.debnath,inbox,,"slack:how do I create a folder in SalesForce so I can save my filtered opportunity list to it?>
+##
+
+",,1132860329350398,NA
+7,"Yasser Hamed [Today at 3:57 PM]
+",Resolved,Duplicate of Production Support,0,,2019-07-25,2019-07-29,,,,upcoming,,"slack:when creating the quote the international org is not appearing in the drop down menu as per the screen attached>
+##",,1132860329705961,NA
+8,colton.smith [7:14 PM],Resolved,Duplicate of Production Support,0,,2019-07-25,2019-07-29,,,soumya.debnath,inbox,,"slack:Have not been able to print quote 5376074 for multiple days now>
+##",,1132860453676096,NA
+9,"carrie.murray [Today at 8:17 AM]
+",Resolved,Duplicate of Production Support,0,,2019-07-25,2019-08-27,Force completion,2019-08-27,debaranjan.ghosh,inbox,,"slack:I need Karriann Wood to be able to approve this quote: 5413582.   Its is  Kathyrn Manfull's queue-who is on vacation.  How is this accomplished?>
+##","
+debaranjan.ghosh : 2019-08-27 13:00
+Closed",1132860454118616,NA
+10,ADC-013 : Slack Data Print from asana.,Resolved,Duplicate of Production Support,2019-08-27,2019-08-27,2019-08-27,2019-08-27,Actual Completion,2019-08-27,nirmal.bhujel,inbox,,,,1137273685191067,0 days
+11,RCA for SF-BUG-473,Re-Assigned-> Onsite ,Duplicate of Production Support,0,,2019-07-25,2019-07-25,,,,upcoming,,,,1132860158190659,NA
+12,Debbie [5:23 PM],Transferred to Bug Tracker,Duplicate of Production Support,0,2019-10-10,2019-07-25,2019-08-12,,,soumya.debnath,inbox,,"I'm getting this error message when trying to add a GPO relationship to a CSN.
+
+",,1132860158190663,NA
+13,Emily Toy [Today at 11:27 PM],Transferred to Bug Tracker,Duplicate of Production Support,0,2019-08-22,2019-07-25,2019-08-21,,,AnkitaSome,inbox,,"slack:Can you please recall quote QAP-0007415> SF-BUG-435
+
+
+
+
+
+","
+AnkitaSome : 2019-07-29 09:56
+Had to call the user
+
+
+AnkitaSome : 2019-07-29 09:56
+Send your screenshots
+nirmal.bhujel : 2019-07-30 07:47
+as per your request i have send the screenshots to you",1132860158190655,NA
+14,nirml,Instant Solution,Duplicate of Production Support,0,,2019-08-09,2019-08-27,,,nirmal.bhujel,inbox,,,,1135000547463896,NA
