@@ -15,7 +15,7 @@ from datetime import datetime as dt
 
 def asana_report(flag,till):
 
-	act=cl.access_token("0/3e2def2173a11c8e674c8ee1a9fffbc0")
+	act=cl.access_token(<acess token>)
 	uid=act.users.me()['id']
 	#act.workspaces.find_all()
 	#listing all projects in specified workspace
