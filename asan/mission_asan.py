@@ -10,7 +10,7 @@ def report_creator():
 	assignee_dict={}
 	tckt_report=([] for i in range(1))
 	#authentication part
-	act=cl.access_token("0/3e2def2173a11c8e674c8ee1a9fffbc0")
+	act=cl.access_token(<acess token>)
 	#account user name
 	uid=act.users.me()['id']
 	#listing all tasks in given project
